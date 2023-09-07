@@ -1744,7 +1744,7 @@
     retry-axios "^2.6.0"
     uuid "^9.0.0"
 
-"@medusajs/medusa@^1.7.7":
+"@medusajs/medusa@^1.7.8":
   version "1.7.8"
   resolved "https://registry.yarnpkg.com/@medusajs/medusa/-/medusa-1.7.8.tgz#5fefd6170abc96e9c71bb34022d7a2319a35643d"
   integrity sha512-RTePkKOW+xOIIDJO4av7zRR8OhyGeVad7KtelLnYTDZG5GMYOizLVYtSWQDQJyyY6f08sPM32BNYxfLAMB1mHw==
